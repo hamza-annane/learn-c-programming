@@ -9,7 +9,7 @@ I’m learning step by step and sharing my progress in this repo.
 
 | Step | Topic                     | Status       |
 |------|---------------------------|--------------|
-| 1    | Basic Instructions        | ⏳ Not Started |
+| 1    | Basic Instructions        | 🔄 In Progress |
 | 2    | Conditional Statements    | ⏳ Not Started |
 | 3    | Loops                     | ⏳ Not Started |
 | 4    | Arrays                    | ⏳ Not Started |
